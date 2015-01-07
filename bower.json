@@ -1,0 +1,18 @@
+{
+  "name": "dummy.loc",
+  "version": "0.0.1",
+  "homepage": "https://github.com/Asubos/dummy-project",
+  "authors": [
+    "Alsheuski Alex <alex.alshevsky@yandex.ru>"
+  ],
+  "description": "Project template",
+  "main": "index.html",
+  "moduleType": [
+    "node"
+  ],
+  "license": "MIT",
+  "private": true,
+  "devDependencies": {
+    "jquery": "~2.1.3"
+  }
+}
